@@ -1,0 +1,18 @@
+body {
+  background-color: white;
+}
+
+.container {
+  display: flex;
+}
+
+.content {
+  flex: 4;
+}
+
+.dashboard {
+  padding-top: 10px;
+  margin-right: 20px;
+  background-color: rgb(227, 242, 253);
+  border-radius: 10px;
+}

@@ -1,0 +1,34 @@
+.loginHeader {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.loginWelcomeText {
+  font-weight: 700;
+  color: rgb(103, 58, 183);
+}
+
+.loginCredentials {
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: rgb(158, 158, 158);
+}
+
+.loginSignIn {
+  font-size: 1rem;
+  font-weight: 500;
+  color: rgb(33, 33, 33);
+}
+
+.inputLogin {
+  margin-top: 15px;
+}
+
+.loginLogoText {
+  text-align: left;
+  font-size: 1.2rem;
+}
+
+.loginLogo {
+  text-align: right;
+}
